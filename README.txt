@@ -8,7 +8,7 @@ Hyperparameter tuning with grid search
 
 Cross-validation with stratifiedKfolds, due to unbalanced categories in the objective variable
 
-Database: 	Home Mortgage Disclosure Act Data (HMDA) 
+Database: Home Mortgage Disclosure Act Data (HMDA) 
 
 Database source: https://vincentarelbundock.github.io/Rdatasets/datasets.html
 
