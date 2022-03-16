@@ -2,7 +2,7 @@ Binary classification on mortgage denial (Spanish)
 
 SCRUM methodology, Exploratory Data Analysis, Data Cleaning
 
-Logistic regression, Neural Network, Bagging & Random Forests, gbm, xgboost, SVM, ensemble
+Logistic regression, Neural Network, Bagging & Random Forest, gbm, xgboost, SVM, ensemble
 
 Hyperparameter tuning with grid search
 
